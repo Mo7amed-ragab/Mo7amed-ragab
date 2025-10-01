@@ -16,13 +16,13 @@
 
 ---
 
-- 🔭 I’m currently working on: **[DomApp](https://www.linkedin.com/company/domapphub/)**
-- 📫 Reach me at: **mohamedragab0160@gmail.com**
-- 🔗 Connect with me on LinkedIn: [mohamed-ibrahim](https://www.linkedin.com/in/mo7amed-ibrahim/)
+-  I’m currently working on: **[DomApp](https://www.linkedin.com/company/domapphub/)**
+-  Reach me at: **mohamedragab0160@gmail.com**
+-  Connect with me on LinkedIn: [mohamed-ibrahim](https://www.linkedin.com/in/mo7amed-ibrahim/)
 
 ---
 
-### 👨‍💻 Programming Languages  
+###  Programming Languages  
 <div align="left">
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
   <img width="12" />
@@ -35,7 +35,7 @@
 
 ###
 
-### 🎨 Frontend Development  
+###  Frontend Development  
 <div align="left">
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
   <img width="12" />
@@ -59,7 +59,7 @@
 </div>
 
 ###
-### 🧩 Backend Development  
+###  Backend Development  
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo"  />
   <img width="12" />
@@ -68,7 +68,7 @@
 
 ###
 
-### 🧰 Tools & Platforms  
+###  Tools & Platforms  
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
@@ -82,7 +82,7 @@
 ###
 ---
 
-## 🌐 Connect with Me
+##  Connect with Me
 
 <div align="left">
   <a href="https://wa.me/201092321755" target="_blank">
@@ -109,7 +109,7 @@
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mo7amed-ragab&show_icons=true&locale=en&layout=compact" alt="Top Langs"/>
