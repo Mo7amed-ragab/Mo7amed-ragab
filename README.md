@@ -12,7 +12,9 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Mohamed Ragab</h1>
-<h4 align="center">Passionate Front-End Developer building clean and responsive web apps with React.js and modern tools.</h4>
+<h4 align="center">Frontend Developer specialized in building scalable dashboards and real-world systems using React.js.
+
+Experienced in developing production systems, managing features end-to-end, and collaborating with teams through code reviews and task distribution.</h4>
 
 ---
 
@@ -20,7 +22,16 @@
 -  Reach me at: **mohamedragab0160@gmail.com**
 -  Connect with me on LinkedIn: [mohamed-ibrahim](https://www.linkedin.com/in/mo7amed-ibrahim/)
 
+
+## 🚀 Featured Projects
+
+- 🔹 RD App – Scalable dashboard system (Tickets, Roles, Reports)
+- 🔹 EndUser System – Client dashboard integrated with RD App
+- 🔹 E-Commerce App – Full shopping experience with API integration
+- 🔹 E-Learning Platform – Multi-role system with courses & lessons
+
 ---
+
 
 ###  Programming Languages  
 <div align="left">
