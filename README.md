@@ -18,7 +18,7 @@ Experienced in developing production systems, managing features end-to-end, and 
 
 ---
 
--  I’m currently working on: **[DomApp](https://www.linkedin.com/company/domapphub/)**
+-  Currently working on production systems at DomApp, building scalable dashboards and client platforms: **[DomApp](https://www.linkedin.com/company/domapphub/)**
 -  Reach me at: **mohamedragab0160@gmail.com**
 -  Connect with me on LinkedIn: [mohamed-ibrahim](https://www.linkedin.com/in/mo7amed-ibrahim/)
 
