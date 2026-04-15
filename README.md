@@ -23,12 +23,12 @@ Experienced in developing production systems, managing features end-to-end, and 
 -  Connect with me on LinkedIn: [mohamed-ibrahim](https://www.linkedin.com/in/mo7amed-ibrahim/)
 
 
-## 🚀 Featured Projects
+## Featured Projects
 
-- 🔹 RD App – Scalable dashboard system (Tickets, Roles, Reports)
-- 🔹 EndUser System – Client dashboard integrated with RD App
-- 🔹 E-Commerce App – Full shopping experience with API integration
-- 🔹 E-Learning Platform – Multi-role system with courses & lessons
+- RD App – Scalable dashboard system (Tickets, Roles, Reports)
+- EndUser System – Client dashboard integrated with RD App
+- E-Commerce App – Full shopping experience with API integration
+- E-Learning Platform – Multi-role system with courses & lessons
 
 ---
 
