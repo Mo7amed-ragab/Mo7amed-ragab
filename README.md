@@ -96,6 +96,9 @@ Experienced in developing production systems, managing features end-to-end, and 
 ##  Connect with Me
 
 <div align="left">
+  <a href="https://www.mohamedragab.site/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=safari&label=&color=0A8DF9&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="portfolio logo"  />
+  </a>
   <a href="https://wa.me/201092321755" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
   </a>
